@@ -11,7 +11,7 @@ pipeline {
         NEXUS_PROTOCOL = "http"
         NEXUS_URL = "3.133.145.136:8081"
         NEXUS_REPOSITORY = "devops"
-        NEXUS_CREDENTIAL_ID = "Nexus_server"
+        NEXUS_CREDENTIAL_ID = "nexus-hiring-credentials"
     }
 
     stages {
